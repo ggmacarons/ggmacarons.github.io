@@ -1,5 +1,5 @@
 header h1 {
-    color: #0076bb;
+    color: #f793f2;
 }
 
 nav ul li {
@@ -10,10 +10,6 @@ nav ul li a {
     display: block;
     padding: .5rem 1 rem;
     background-color: gold;
-}
-
-min img {
-    float: left;
 }
 
 footer {
